@@ -4,7 +4,7 @@ defined('_JEXEC') or die;
 
 use Joomla\CMS\HTML\HTMLHelper;
 use Joomla\CMS\Factory;
-use \Joomla\CMS\Uri\Uri;
+use Joomla\CMS\Uri\Uri;
 
 // Activate offcanvas javascript
 HTMLHelper::_('bootstrap.offcanvas');
